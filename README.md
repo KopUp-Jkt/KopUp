@@ -77,5 +77,7 @@ To run this project locally, make sure Node.js and npm are installed on your dev
 Clone the repository:
 
 ```bash
+git clone https://github.com/KopUpTeam/KopUp.git
+cd KopUp
 git clone https://github.com/USERNAME/KopUp.git
 cd KopUp

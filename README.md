@@ -79,5 +79,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/KopUpTeam/KopUp.git
 cd KopUp
+```
 git clone https://github.com/USERNAME/KopUp.git
 cd KopUp

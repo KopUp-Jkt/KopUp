@@ -80,3 +80,5 @@ Clone the repository:
 git clone https://github.com/KopUpTeam/KopUp.git
 cd KopUp
 ```
+npm install
+npm run dev

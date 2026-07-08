@@ -80,5 +80,21 @@ Clone the repository:
 git clone https://github.com/KopUpTeam/KopUp.git
 cd KopUp
 ```
+
+Install dependencies:
+
+```bash
 npm install
+```
+
+Run the development server:
+
+```bash
 npm run dev
+```
+
+Open the local server in your browser:
+
+```bash
+http://localhost:5173
+```
